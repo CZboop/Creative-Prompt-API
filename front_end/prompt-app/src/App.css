@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&display=swap');
+body {
+  background-color:  rgb(240,248,255);
+  font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+button{
+  border: white 2px solid;
+  border-radius: 5px;
+  background-color: rgb(202,212,243);
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-weight: bold;
+  font-size: medium;
+}
+
+input[type=submit]{
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-weight: bold;
+  font-size: medium;
+}
+input[type=submit]:hover{
+  background-color: white;
+}
